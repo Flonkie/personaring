@@ -1,9 +1,6 @@
 export default {
-    match: 'host',
-    value: location.host,
-    altMatch: 'altHosts',
-
-    list: await members.json(),
+  match: 'host',
+  value: location.host,
   
   defaultWidget: `
       <div class="center">
