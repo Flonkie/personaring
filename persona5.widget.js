@@ -1,6 +1,11 @@
+let members = await fetch('https://flonkie.github.io/personaring/personawbr.json');
+
 export default {
-  match: 'host',
-  value: location.host,
+    match: 'host',
+    value: location.host,
+    altMatch: 'altHosts',
+
+    list: await members.json(),
   
   defaultWidget: `
       <div class="center">
