@@ -11,7 +11,7 @@
   }
 
   // Import the rest of the config
-  let config = (await import('https://flonkie.nekoweb.org/scr/webring/persona3.widget.js')).default;
+  let config = (await import('https://flonkie.github.io/personaring/persona3.widget.js')).default;
   
   // Merge the list with the imported config
   config.list = siteList;
