@@ -60,6 +60,5 @@ export default {
         
     }
     .center{ display: flex; flex-wrap: wrap; flex-direction: column; justify-content: center; width: 300px; max-width: 300px;}
-    :webring>div{margin:0 auto!important;}
   `
 }
