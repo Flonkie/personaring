@@ -1,15 +1,14 @@
 // v1.1.0
 // check https://github.com/ThinLiquid/pmoring for the latest version
+import personawbr from './personawbr.js';
 ;(async (s) => {
-  // Fetch the site list from JSON
+  // Import the site list from JS module
   let siteList = [];
   try {
-    const response = await fetch('https://flonkie.github.io/personaring/personawbr.json');
-    siteList = await response.json();
+    siteList = (await import('https://flonkie.github.io/personaring/personawbr.js')).default;
   } catch (error) {
     console.error('Failed to load site list:', error);
   }
-
   // Import the rest of the config
   let config = (await import('https://flonkie.github.io/personaring/persona4.widget.js')).default;
   

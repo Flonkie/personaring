@@ -1,5 +1,3 @@
-let members = await fetch('https://flonkie.github.io/personaring/personawbr.json');
-
 export default {
     match: 'host',
     value: location.host,

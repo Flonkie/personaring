@@ -1,0 +1,8 @@
+const personawbr = [
+  {"host": "flonkie.nekoweb.org", "username": "flonkie"},
+  {"host": "layercake.moe", "username": "June"},
+  {"host": "http://localhost:8080/", "username": "Localhost"},
+  {"host":"flonkie.neocities.org","username":"flonkie"}
+];
+
+export default personawbr;
