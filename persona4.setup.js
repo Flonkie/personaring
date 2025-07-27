@@ -1,6 +1,5 @@
 // v1.1.0
 // check https://github.com/ThinLiquid/pmoring for the latest version
-import personawbr from './personawbr.js';
 ;(async (s) => {
   // Import the site list from JS module
   let siteList = [];
