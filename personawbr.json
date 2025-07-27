@@ -1,5 +1,6 @@
 [
   {"host": "flonkie.nekoweb.org", "username": "flonkie"},
   {"host": "layercake.moe", "username": "June"},
-  {"host": "http://localhost:8080/", "username": "Localhost"}
+  {"host": "http://localhost:8080/", "username": "Localhost"},
+  {"host":"https://flonkie.neocities.org","username":"flonkie"}
 ]
