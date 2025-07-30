@@ -97,8 +97,7 @@ export default {
         width: 240px;
         max-width: 300px;
         max-height: 220px;
-        margin-top: 100px;
-        margin-left: 10px;
+        margin: 100px 60px 10px 10px;
         background-image: url(https://flonkie.neocities.org/nekoimages/personawbr/p4.jpg);
       }
         
