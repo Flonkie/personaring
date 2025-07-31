@@ -45,6 +45,8 @@ export default {
     .sml{width:fit-content; height:fit-content; margin:0; padding:0; font-family: "Arial"; color: #FFFFFF;font-weight:bolder!important; font-size: 16px;text-decoration:none;}
     .size{height:15px; margin:3px 0;width: max-content; overflow: visible; filter: drop-shadow(0px -1px 0 #000) drop-shadow(1px 0px 0 #000) drop-shadow(0px 1px 0 #000) drop-shadow(-1px 0px 0 #000) drop-shadow(0px -1px 0 #000) drop-shadow(1px 0px 0 #000) drop-shadow(0px 1px 0 #000) drop-shadow(-1px 0px 0 #000);}
     
+    .sml:hover{background:#000}
+
     .maincard{
     padding:3px;
      background-image: url(https://flonkie.neocities.org/nekoimages/personawbr/base.png);

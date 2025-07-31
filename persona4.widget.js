@@ -49,7 +49,8 @@ export default {
         bottom: 5px;
         filter: drop-shadow(-1px 0px 0 #000);
         z-index: 1;
-        position: relative;}
+        position: relative;
+        bottom:0}
         
     .directions{display:flex; flex-direction: column; justify-content: space-between; margin:60px auto auto 80px; z-index:3;gap:5px}
     
@@ -97,7 +98,7 @@ export default {
         width: 240px;
         max-width: 300px;
         max-height: 220px;
-        margin: 99px 60px 9px 5px;
+        margin: 104px 60px 10px 5px;
         background-image: url(https://flonkie.neocities.org/nekoimages/personawbr/p4.jpg);
       }
         

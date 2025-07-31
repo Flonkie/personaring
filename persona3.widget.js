@@ -46,7 +46,6 @@ export default {
     
     .p3maincard{
      background-image: url(https://flonkie.neocities.org/nekoimages/personawbr/base3.gif);
-     background-size: cover;
      display: flex;
      flex-direction: column;
      justify-content: center;
