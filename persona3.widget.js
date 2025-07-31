@@ -12,8 +12,8 @@ export default {
   `,
 
   widget: `
-    <div class="blabord maincard">
-                <div class="directions">
+    <div class="blabord p3maincard">
+                <div class="p3directions">
                     <a class="sml sk1" href="https://{prev.host}"> {prev.username}</a>
                     <a class="sml sk2" href="https://flonkie.nekoweb.org/other/persona">Webring</a>
                     <a class="sml sk3" href="https://{next.host}">{next.username}</a>
@@ -34,7 +34,7 @@ export default {
         text-decoration: none !important;
         
       
-    .directions{display:flex; flex-direction: column; justify-content: space-between; margin: auto 35px auto auto;}
+    .p3directions{display:flex; flex-direction: column; justify-content: space-between; margin: auto 35px auto auto;}
     .sml{order:2;height:fit-content; margin:-1px 0; padding:0; font-family: "Verdana"; color: #FFFFFF; font-weight:bold!important; font-size: 19px; transition: all 0.75s; text-align: center;display:block; text-decoration:none;}
     .sml:hover{font-size:22px; margin:3px 0; color:#000; background:#FFF;}
     .size{height:15px; margin:3px 0;width: max-content; overflow: visible; filter: drop-shadow(0px -1px 0 #000) drop-shadow(1px 0px 0 #000) drop-shadow(0px 1px 0 #000) drop-shadow(-1px 0px 0 #000) drop-shadow(0px -1px 0 #000) drop-shadow(1px 0px 0 #000) drop-shadow(0px 1px 0 #000) drop-shadow(-1px 0px 0 #000);}
@@ -44,7 +44,7 @@ export default {
     
     
     
-    .maincard{
+    .p3maincard{
      background-image: url(https://flonkie.neocities.org/nekoimages/personawbr/base3.gif);
      background-size: cover;
      display: flex;

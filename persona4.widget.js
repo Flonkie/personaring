@@ -13,7 +13,7 @@ export default {
 
   widget: `
   <div class="small"><div class="tv"></div></div>
-    <div class="maincard">
+    <div class="p4maincard">
     <div class="small"><div class="static"></div></div>
       <div class="small"><div class="circlsel"></div></div> 
         <div class="directions">
@@ -88,7 +88,7 @@ export default {
         width: 87px;
         background-size: 100%;}
     
-    .maincard{
+    .p4maincard{
         background-size: cover;
         display: flex;
         flex-direction: column;
@@ -97,7 +97,7 @@ export default {
         width: 240px;
         max-width: 300px;
         max-height: 220px;
-        margin: 100px 60px 10px 10px;
+        margin: 100px 60px 10px 5px;
         background-image: url(https://flonkie.neocities.org/nekoimages/personawbr/p4.jpg);
       }
         
