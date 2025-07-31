@@ -93,11 +93,11 @@ export default {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        height: 165px;
+        height: 167px;
         width: 240px;
         max-width: 300px;
         max-height: 220px;
-        margin: 100px 60px 10px 5px;
+        margin: 99px 60px 9px 5px;
         background-image: url(https://flonkie.neocities.org/nekoimages/personawbr/p4.jpg);
       }
         
