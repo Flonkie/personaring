@@ -13,7 +13,7 @@ export default {
 
   widget: `
     <div class="pminimaincard">
-        <div><img class="pminisize" src="https://flonkie.neocities.org/nekoimages/personawbr/plogos.png"></div>
+        <img class="pminisize" src="https://flonkie.neocities.org/nekoimages/personawbr/plogos.png">
                 <div class="pminidirections">
                     <a class="pminisml" href="https://{prev.host}"> {prev.username}</a>
                     <a class="pminisml" href="https://flonkie.nekoweb.org/other/persona">Webring</a>
@@ -31,12 +31,15 @@ export default {
       flex-direction:column;
       justify-content: center;
       flex-wrap:wrap;
-      height: 232px;
-        text-decoration: none !important;
+      width: fit-content;
+      text-decoration: none !important;
+      background: #000;
+      width: fit-content;
+      padding: 5px;
         
       
-    .pminidirections{display:flex; flex-direction: column; justify-content: space-between; margin: auto 35px auto auto;}
-    .pminisml{order:2;height:fit-content; margin:-1px 0; padding:0; font-family: "Verdana"; font-weight:bold!important; font-size: 19px; transition: all 0.75s; text-align: center;display:block; text-decoration:none;}
+    .pminidirections{display:flex; flex-direction: row; justify-content: space-around;}
+    .pminisml{order:2;height:fit-content; margin:-1px 0; padding:0; font-family: "Verdana"; font-weight:bold!important; font-size: 19px; transition: all 0.75s; text-align: center;display:block; text-decoration:none; color:#fff}
     .pminisml:hover{font-size:22px; margin:3px 0; color:#000; background:#FFF;}
     .pminisize{height:15px; margin:3px 0;width: max-content; overflow: visible; filter: drop-shadow(0px -1px 0 #000) drop-shadow(1px 0px 0 #000) drop-shadow(0px 1px 0 #000) drop-shadow(-1px 0px 0 #000) drop-shadow(0px -1px 0 #000) drop-shadow(1px 0px 0 #000) drop-shadow(0px 1px 0 #000) drop-shadow(-1px 0px 0 #000);}
     
@@ -44,7 +47,7 @@ export default {
      display: flex;
      flex-direction: column;
      justify-content: center;
-      height: 100px;
+     height: 125px;
      width: 300px;
      max-width: 300px;
      max-height: 220px;
