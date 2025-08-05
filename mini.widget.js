@@ -15,9 +15,9 @@ export default {
     <div class="pminimaincard">
         <img src="https://flonkie.neocities.org/nekoimages/personawbr/plogos.png">
                 <div class="pminidirections">
-                    <a class="pminisml" href="https://{prev.host}"> {prev.username}</a>
-                    <a class="pminisml" href="https://flonkie.nekoweb.org/other/persona">Webring</a>
-                    <a class="pminisml" href="https://{next.host}">{next.username}</a>
+                    <a class="pminisml pminiblue" href="https://{prev.host}"> {prev.username}</a>
+                    <a class="pminisml pminiyellow" href="https://flonkie.nekoweb.org/other/persona">Webring</a>
+                    <a class="pminisml pminired" href="https://{next.host}">{next.username}</a>
                 </div>
     </div>
   `,
@@ -40,8 +40,13 @@ export default {
         
       
     .pminidirections{display:flex; flex-direction: row; justify-content: space-around;}
-    .pminisml{order:2;height:fit-content; margin:-1px 0; padding:0; font-family: "Verdana"; font-weight:bold!important; font-size: 19px; transition: all 0.75s; text-align: center;display:block; text-decoration:none; color:#fff}
-    .pminisml:hover{font-size:22px; margin:3px 0; color:#000; background:#FFF;}
+    .pminisml{order:2;height:fit-content; margin:-1px 0; padding:0; font-family: "Verdana"; font-weight:bold!important; font-size: 19px; text-align: center;display:block; text-decoration:none; color:#fff}
+
+    .pminiblue, .pminired, .pminiyellow {transition: all 0.75s;}
+    .pminiblue:hover{background:#00a8eac60;}
+    .pminired:hover {background:#a1030c60;}
+    .pminiyellow:hover{background:#fff12260;} 
+
     .pminisize{height:15px; margin:3px 0;width: max-content; overflow: visible; filter: drop-shadow(0px -1px 0 #000) drop-shadow(1px 0px 0 #000) drop-shadow(0px 1px 0 #000) drop-shadow(-1px 0px 0 #000) drop-shadow(0px -1px 0 #000) drop-shadow(1px 0px 0 #000) drop-shadow(0px 1px 0 #000) drop-shadow(-1px 0px 0 #000);}
     
     .pminimaincard{
