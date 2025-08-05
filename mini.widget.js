@@ -13,7 +13,7 @@ export default {
 
   widget: `
     <div class="pminimaincard">
-        <img class="pminisize" src="https://flonkie.neocities.org/nekoimages/personawbr/plogos.png">
+        <img src="https://flonkie.neocities.org/nekoimages/personawbr/plogos.png">
                 <div class="pminidirections">
                     <a class="pminisml" href="https://{prev.host}"> {prev.username}</a>
                     <a class="pminisml" href="https://flonkie.nekoweb.org/other/persona">Webring</a>
