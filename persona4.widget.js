@@ -67,6 +67,9 @@ export default {
         display:block; 
         text-decoration:none;
         background: linear-gradient(90deg,#f6fd06 45%, rgba(246,253,6,0) 90%);
+        max-width: 130px;
+    text-overflow: ellipsis;
+    overflow: hidden;
     }
     .p4sml:hover{margin-left:-13px; color:#FFF; background:#0f0e1c; text-shadow: none;}
     
