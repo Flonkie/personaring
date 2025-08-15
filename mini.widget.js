@@ -39,12 +39,10 @@ export default {
       border-radius:7px;
         
       
-    .pminidirections{display:flex; flex-direction: row; justify-content: space-around;}
-    .pminisml{order:2;height:fit-content; margin:0; padding:0 5px; font-family: "Verdana"; font-weight:bold!important; font-size: 19px; text-align: center;display:block; text-decoration:none; color:#fff;    overflow: hidden;
-    max-width: 99px;
-    text-overflow: ellipsis;}
+    .pminidirections{display:flex; flex-direction: row; justify-content: space-between;}
+    .pminisml{order:2;height:fit-content; margin:0; font-family: "Verdana"; font-weight:bold!important; font-size: 16px; text-align: center;display:block; text-decoration:none; color:#fff; overflow: hidden; max-width: 100px; width:100px; text-overflow: ellipsis;}
 
-    .pminiblue, .pminired, .pminiyellow {transition: all 0.75s;padding: 0 5px;}
+    .pminiblue, .pminired, .pminiyellow {transition: all 0.75s;}
     .pminiblue:hover{background:#00a8eb60;padding-right: 10px;}
     .pminiyellow:hover{background:#fff12260;padding:0 10px;}
     .pminired:hover {background:#a1030c60;padding-left:10px;}
