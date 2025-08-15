@@ -47,10 +47,10 @@ export default {
     
     .p5sml:hover{background:#00000080}
 
-    .p5leftsidenav{max-width:45%; width:45% display:flex; overflow: hidden; text-overflow: ellipsis;}
-    .p5rightsidenav{max-width:45%; width:45% display:flex; overflow: hidden; text-overflow: ellipsis;flex-direction: row-reverse;}
+    .p5leftsidenav{max-width:45%; width:45%; display:flex; overflow: hidden; text-overflow: ellipsis;}
+    .p5rightsidenav{max-width:45%; width:45%; display:flex; overflow: hidden; text-overflow: ellipsis;flex-direction: row-reverse;}
 
-    .p5sidenavp, {margin: auto 3px;  overflow: hidden; text-overflow: ellipsis;}
+    .p5sidenavp{margin: auto 3px;  overflow: hidden; text-overflow: ellipsis;}
 
 
     .p5maincard{
