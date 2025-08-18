@@ -7,6 +7,7 @@ const personawbr = [
   {"host":"crtstatic.neocities.org","username":"Nikki"},
   {"host":"lopster.neocities.org","username":"lopster"},
   {"host":"nightcoreandcaffeine.neocities.org","username":"NightcoreAndCaffeine"},
+  {"host":"https://cursedricardo.nekoweb.org/","username":"CursedRicardo"},
 ];
 
 export default personawbr;
