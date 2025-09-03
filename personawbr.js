@@ -4,10 +4,11 @@ const personawbr = [
   {"host":"compendium.nekoweb.org","username":"Casio"},
   {"host":"dreamscape.place","username":"Xiaoshan"},
   {"host":"kellin09.nekoweb.org","username":"Mary Jane"},
-  {"host":"crtstatic.neocities.org","username":"Nikki"},
+  {"host":"crtstatic.net","username":"Nikki"},
   {"host":"lopster.neocities.org","username":"lopster"},
   {"host":"nightcoreandcaffeine.neocities.org","username":"NightcoreAndCaffeine"},
   {"host":"cursedricardo.nekoweb.org","username":"CursedRicardo"},
+  {"host":"angelroom.nekoweb.org","username":"angel"},
 ];
 
 export default personawbr;
