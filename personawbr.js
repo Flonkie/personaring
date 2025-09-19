@@ -11,6 +11,7 @@ const personawbr = [
   {"host":"aliensriracha.neocities.org","username":"Aliensriracha"},
   {"host":"tuffgong.nekoweb.org","username":"Tuffground II"},
   {"host":"onlytrichromatic.neocities.org","username":"Kelly"},
+  {"host":"oshikatsuangel.nekoweb.org","username":"Stella"},
 ];
 
 export default personawbr;
