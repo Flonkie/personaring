@@ -14,8 +14,8 @@ const personawbr = [
   {"host":"oshikatsuangel.nekoweb.org","username":"Stella"},
   {"host":"kazeys.art","username":"kaz"},
   {"host":"vulturequills.neocities.org","username":"Fenrir"},
-   {"host":"https://26gk0.neocities.org/","username":"26gk0"},
-    {"host":"https://foxlore.neocities.org/","username":"claudia"},
+   {"host":"26gk0.neocities.org","username":"26gk0"},
+    {"host":"foxlore.neocities.org","username":"claudia"},
 ];
 
 export default personawbr;
