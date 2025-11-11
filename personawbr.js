@@ -19,6 +19,7 @@ const personawbr = [
   {"host":"upsidedownhourglass.neocities.org","username":"lucas"},
   {"host":"divineintrusion.neocities.org","username":"Jace"},
   {"host":"necogutz.tumblr.com","username":"necogutz"},
+  {"host":"maralados.neocities.org","username":"marmar"},
 ];
 
 export default personawbr;
