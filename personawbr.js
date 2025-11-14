@@ -18,7 +18,7 @@ const personawbr = [
   {"host":"foxlore.neocities.org","username":"claudia"},
   {"host":"upsidedownhourglass.neocities.org","username":"lucas"},
   {"host":"divineintrusion.neocities.org","username":"Jace"},
-  {"host":"necogutz.tumblr.com","username":"necogutz"},
+  {"host":"necogutz.neocities.org","username":"necogutz"},
   {"host":"maralados.neocities.org","username":"marmar"},
   {"host":"mistakemp4.neocities.org","username":"Mistake"},
   {"host":"uchicken.nekoweb.org","username":"uchicken"},
