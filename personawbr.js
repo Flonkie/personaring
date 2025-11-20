@@ -13,7 +13,7 @@ const personawbr = [
   {"host":"onlytrichromatic.neocities.org","username":"Kelly"},
   {"host":"oshikatsuangel.nekoweb.org","username":"Stella"},
   {"host":"kazeys.art","username":"kaz"},
-  {"host":"vulturequills.neocities.org","username":"Fenrir"},
+  {"host":"fenris.nekoweb.org","username":"Fenris"},
   {"host":"26gk0.neocities.org","username":"26gk0"},
   {"host":"foxlore.neocities.org","username":"claudia"},
   {"host":"upsidedownhourglass.neocities.org","username":"lucas"},
@@ -22,6 +22,7 @@ const personawbr = [
   {"host":"maralados.neocities.org","username":"marmar"},
   {"host":"mistakemp4.neocities.org","username":"Mistake"},
   {"host":"uchicken.nekoweb.org","username":"uchicken"},
+  {"host":"musubi.nekoweb.org","username":"Moriarty"},
 ];
 
 export default personawbr;
