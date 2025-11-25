@@ -21,6 +21,7 @@ const personawbr = [
   {"host":"mistakemp4.neocities.org","username":"Mistake"},
   {"host":"musubi.nekoweb.org","username":"Moriarty"},
   {"host":"hunipyon.neocities.org","username":"chara"},
+  {"host":"albedo.nekoweb.org","username":"Sunny"},
 ];
 
 export default personawbr;
