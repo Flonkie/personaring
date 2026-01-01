@@ -21,11 +21,14 @@ const personawbr = [
   {"host":"mistakemp4.neocities.org","username":"Mistake"},
   {"host":"musubi.nekoweb.org","username":"Moriarty"},
   {"host":"hunipyon.neocities.org","username":"chara"},
-  {"host":"albedo.nekoweb.org","username":"Sunny"},
   {"host":"scrapsite.nekoweb.org","username":"BigBanana"},
   {"host":"betapopsicle.neocities.org","username":"Betapop"},
   {"host":"yuriplanet.neocities.org","username":"anh"},
   {"host":"uchicken.nekoweb.org","username":"uchicken"},
+  {"host":"cefa.moe","username":"cefa"},
+  {"host":"albedo.ink","username":"Sunny"},
+  {"host":"waterlily.nekoweb.org","username":"waterlily"},
+  {"host":"sweetcherries.neocities.org","username":"Estelle"},
 ];
 
 export default personawbr;
