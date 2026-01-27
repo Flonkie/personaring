@@ -32,6 +32,12 @@ const personawbr = [
   {"host":"mividaloca.nekoweb.org","username":"toki"},
   {"host":"pucas01.com","username":"Pucas01"},
   {"host":"azachi.nekoweb.org","username":"Loor"},
+  {"host":"ultimateacedefective.neocities.org","username":"Stan"},
+  {"host":"satanized.online","username":"Crowley"},
+  {"host":"vanite.neocities.org","username":"Wallace!"},
+  {"host":"kuradoberi.nyc","username":"kuradoberi"},
+  {"host":"aikoto.love","username":"kris"},
+  {"host":"sunnytheorem.nekoweb.org","username":"Blanche/Blanc"},
 ];
 
 export default personawbr;
