@@ -7,7 +7,7 @@ export default {
       <img src="https://flonkie.neocities.org/nekoimages/personawbr/Who.png" class="pminisize" style="margin: 3px auto; height: 17px;">
       <div>
       <img src="https://flonkie.neocities.org/nekoimages/personawbr/thou.png" class="pminisize">
-      <a href="https://flonkie.nekoweb.org/other/persona"><img src="https://flonkie.neocities.org/nekoimages/personawbr/webr.png" class="pminisize"></a></div>
+      <a href="https://flonkie.nekoweb.org/studyroom/persona"><img src="https://flonkie.neocities.org/nekoimages/personawbr/webr.png" class="pminisize"></a></div>
       </div>
   `,
 
@@ -16,7 +16,7 @@ export default {
         <img src="https://flonkie.neocities.org/nekoimages/personawbr/plogos.png">
                 <div class="pminidirections">
                     <a class="pminisml pminiblue" href="https://{prev.host}"> {prev.username}</a>
-                    <a class="pminisml pminiyellow" href="https://flonkie.nekoweb.org/other/persona">Webring</a>
+                    <a class="pminisml pminiyellow" href="https://flonkie.nekoweb.org/studyroom/persona">Webring</a>
                     <a class="pminisml pminired" href="https://{next.host}">{next.username}</a>
                 </div>
     </div>

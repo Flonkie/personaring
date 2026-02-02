@@ -7,7 +7,7 @@ export default {
       <img src="https://flonkie.neocities.org/nekoimages/personawbr/Who.png" class="p5size" style="margin: 3px auto; height: 17px;">
       <div>
       <img src="https://flonkie.neocities.org/nekoimages/personawbr/thou.png" class="p5size">
-      <a href="https://flonkie.nekoweb.org/other/persona"><img src="https://flonkie.neocities.org/nekoimages/personawbr/webr.png" class="p5size"></a></div>
+      <a href="https://flonkie.nekoweb.org/studyroom/persona"><img src="https://flonkie.neocities.org/nekoimages/personawbr/webr.png" class="p5size"></a></div>
       </div>
   `,
 
@@ -19,7 +19,7 @@ export default {
             <img style="width:150px; height:auto; margin: 5px auto;"src="https://flonkie.neocities.org/nekoimages/personawbr/PTL.png">
                 <div class="p5directions">
                     <a class="p5sml p5leftsidenav" href="https://{prev.host}"><img src="https://flonkie.neocities.org/nekoimages/personawbr/x.png" style="height:25px; margin: 0 2px; width: auto;vertical-align: middle;"> <p class="p5sidenavp">{prev.username}</p></a>
-                    <a class="p5sml" href="https://flonkie.nekoweb.org/other/persona"><img src="https://flonkie.neocities.org/nekoimages/personawbr/Menu.png" style="height:25px; width: auto;vertical-align: middle;"></a>
+                    <a class="p5sml" href="https://flonkie.nekoweb.org/studyroom/persona"><img src="https://flonkie.neocities.org/nekoimages/personawbr/Menu.png" style="height:25px; width: auto;vertical-align: middle;"></a>
                     <a class="p5sml p5rightsidenav" href="https://{next.host}"> <img src="https://flonkie.neocities.org/nekoimages/personawbr/o.png" style="height:25px; margin: 0 2px; width: auto;vertical-align: middle;"><p class="p5sidenavp">{next.username}</p></a>
                 </div>
             </div>
