@@ -17,7 +17,7 @@ const personawbr = [
   {"host":"upsidedownhourglass.neocities.org","username":"lucas"},
   {"host":"divineintrusion.neocities.org","username":"Jace"},
   {"host":"necogutz.neocities.org","username":"necogutz"},
-  {"host":"maralados.neocities.org","username":"marmar"},
+  {"host":"itsmarmar.space","username":"marmar"},
   {"host":"mistakemp4.neocities.org","username":"Mistake"},
   {"host":"musubi.nekoweb.org","username":"Moriarty"},
   {"host":"hunipyon.neocities.org","username":"chara"},
@@ -38,6 +38,12 @@ const personawbr = [
   {"host":"kuradoberi.nyc","username":"kuradoberi"},
   {"host":"aikoto.love","username":"kris"},
   {"host":"sunnytheorem.nekoweb.org","username":"Blanche/Blanc"},
+  {"host":"dears.nekoweb.org","username":"Rim"},
+  {"host":"vespertinespiral.neocities.org","username":"Sebastián"},
+  {"host":"dove.town","username":"Diane"},
+  {"host":"alayashrine.neocities.org","username":"Alaya Shrine"},
+  {"host":"ts-was-here.nekoweb.org","username":"TS"},
+   {"host":"plotpoint.nekoweb.org","username":"roxy"}
 ];
 
 export default personawbr;
