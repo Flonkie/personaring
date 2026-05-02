@@ -49,7 +49,12 @@ const personawbr = [
   {"host":"makiroll.space","username":"bee"},
   {"host":"redcamel.neocities.org","username":"SirEnkidu"},
   {"host":"ezoiar.jp.net","username":"Ezoiar"},
-  {"host":"arlecooch-ie.neocities.org","username":"chino"}
+  {"host":"arlecooch-ie.neocities.org","username":"chino"},
+  {"host":"jiran.nekoweb.org","username":"kaz"},
+  {"host":"apples.nekoweb.org","username":"yuki"},
+  {"host":"nev.nya.je","username":"Nev"},
+  {"host":"printfgrechka.neocities.org","username":"grechka"},
+  {"host":"channelonion.neocities.org","username":"Wes"}
 ];
 
 export default personawbr;
