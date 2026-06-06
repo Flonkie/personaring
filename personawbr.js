@@ -12,7 +12,6 @@ const personawbr = [
   {"host":"onlytrichromatic.neocities.org","username":"Kelly"},
   {"host":"kazeys.art","username":"kaz"},
   {"host":"fenris.nekoweb.org","username":"Fenris"},
-  {"host":"26gk0.neocities.org","username":"26gk0"},
   {"host":"foxlore.neocities.org","username":"claudia"},
   {"host":"upsidedownhourglass.neocities.org","username":"lucas"},
   {"host":"divineintrusion.neocities.org","username":"Jace"},
@@ -26,7 +25,6 @@ const personawbr = [
   {"host":"yuriplanet.neocities.org","username":"anh"},
   {"host":"uchicken.nekoweb.org","username":"uchicken"},
   {"host":"cefa.moe","username":"cefa"},
-  {"host":"albedo.ink","username":"Sunny"},
   {"host":"waterlily.nekoweb.org","username":"waterlily"},
   {"host":"sweetcherries.neocities.org","username":"Estelle"},
   {"host":"mividaloca.nekoweb.org","username":"toki"},
@@ -54,7 +52,18 @@ const personawbr = [
   {"host":"apples.nekoweb.org","username":"yuki"},
   {"host":"nev.nya.je","username":"Nev"},
   {"host":"printfgrechka.neocities.org","username":"grechka"},
-  {"host":"channelonion.neocities.org","username":"Wes"}
+  {"host":"channelonion.neocities.org","username":"Wes"},
+  {"host":"solemnity.nekoweb.org","username":"Cleo"},
+  {"host":"capsule.nekoweb.org","username":"kiel"},
+  {"host":"butterkiss.nekoweb.org","username":"luka"},
+  {"host":"marcheesed.xyz","username":"marcy"},
+  {"host":"soramimicake.nekoweb.org","username":"Kitchy"},
+  {"host":"albedo.nekoweb.org","username":"Sunny"},
+  {"host":"mesagrey.ca","username":"greymesa"},
+  {"host":"mimikyutieiscool.neocities.org","username":"mimikyutieiscool"},
+  {"host":"miaomiao.nekoweb.org","username":"miaomiao"},
+  {"host":"zampyre.nekoweb.org","username":"zampyre"},
+  {"host":"vmpalessa.neocities.org","username":"Alessa"}
 ];
 
 export default personawbr;
