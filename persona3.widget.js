@@ -31,7 +31,8 @@ export default {
       justify-content: center;
       flex-wrap:wrap;
       height: 232px;
-        text-decoration: none !important;
+      text-decoration: none !important;
+      height: fit-content;
         
       
     .p3directions{display:flex; flex-direction: column; justify-content: space-between; margin: auto 20px auto auto;}

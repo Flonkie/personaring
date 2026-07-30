@@ -37,9 +37,10 @@ export default {
       flex-direction:column;
       justify-content: center;
       flex-wrap:wrap;
-     width: 300px;
-     max-width: 300px;
-       text-decoration: none !important;
+      width: 300px;
+      max-width: 300px;
+      text-decoration: none !important;
+      height: fit-content;
       
     .p5directions{display:flex; flex-direction: row; justify-content: center; margin: 0 5px;max-width: 258px;}
     .p5sml{width:fit-content; height:fit-content; margin:0; padding:0; font-family: "Arial"; color: #FFFFFF;font-weight:bolder!important; font-size: 16px;text-decoration:none;}

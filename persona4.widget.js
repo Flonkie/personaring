@@ -38,6 +38,7 @@ export default {
       text-decoration: none !important;
       max-width: 310px;
       max-height: 300px;
+      height: fit-content;
        
     .p4small{height:0px; width:0px}
         

@@ -37,6 +37,7 @@ export default {
       width: fit-content;
       padding: 5px;
       border-radius:7px;
+      height: fit-content;
         
       
     .pminidirections{display:flex; flex-direction: row; justify-content: space-between;}
