@@ -68,7 +68,18 @@ const personawbr = [
   {"host":"valvatorez.neocities.org","username":"Sam"},
   {"host":"bakenohana.nekoweb.org","username":"Kathy"},
   {"host":"mashumaro.nekoweb.org","username":"eren"},
-  {"host":"wahnsinnkeepsustogether.neocities.org","username":"Medoh"}
+  {"host":"wahnsinnkeepsustogether.neocities.org","username":"Medoh"},
+  {"host":"flowerprince.nekoweb.org","username":"Asriel + Flowery"},
+  {"host":"cor-mechanica.neocities.org","username":"may"},
+ {"host":"dipndops.neocities.org","username":"dipndops"},
+ {"host":"voidcrawlerz.neocities.org","username":"nep"},
+ {"host":"sallycanwait.neocities.org","username":"julian"},
+ {"host":"alicent.neocities.org","username":"syd"},
+ {"host":"rosedonna.nekoweb.org","username":"Abaddon"},
+ {"host":"indianotaku.nekoweb.org","username":"Indian Otaku"},
+ {"host":"bathyalsphere.neocities.org","username":"Bee"},
+ {"host":"rhearipley.neocities.org","username":"anna"},
+ {"host":"mikaiah.fyi","username":"mikaiah"}
 ];
 
 export default personawbr;
